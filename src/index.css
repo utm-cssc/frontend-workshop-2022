@@ -1,13 +1,92 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+html,body {
+  background: darkslategray;
+}
+.container-fluid {
+  font-family: 'Varela Round', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.profile {
+  margin-top: 15%;
+  text-align: center;
+}
+
+.name {
+  color: #e9ecef;
+}
+
+.customTabPane {
+  background: #e9ecef;
+  box-shadow: 0px 0px 10px 0px;
+  margin-top: 5%;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link.active {
+  background: #212529!important;
+  color: white!important;
+  border-color: #212529!important;
+  border-radius: 0!important;
+}
+
+.jumbotron {
+  background: #212529!important;
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  background-color: var(--bs-light);
+  border-radius: .3rem;  
+}
+
+#root {
+  background: darkslategray;
+}
+
+.profileImage {
+    box-shadow: 0px 0px 10px 3px;
+    border-radius: 50%!important;
+    width: 30%;
+    border-style: solid;
+    margin-bottom: 2%;
+}
+
+.skills {
+  color: white;
+}
+
+.skills > .row {
+  margin-top: 3%;
+}
+
+.table td {
+    color: #dee2e6;
+}
+
+.experience, .education {
+  color: #e9ecef;
+}
+
+.education > .row, .experience > .row {
+  padding: 1rem;
+}
+
+.osContrib {
+  color: #e9ecef;
+}
+
+.contact {
+  color: #e9ecef;
+}
+
+.contact > .row {
+  margin-left: 20%;
+  padding: 1rem;
+}
+
+.githubProjects {
+  color: #e9ecef;
 }
