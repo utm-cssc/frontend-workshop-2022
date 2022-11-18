@@ -1,18 +1,14 @@
 import React from "react";
-import { Container, Row, Col } from 'reactstrap';
-import Profile from './Components/Profile';
-import CustomTabPane from './Components/CustomTabPane'
+import { Container} from 'reactstrap';
+import Homepage from "./pages/Home";
 
-import "./index.css";
+import "./App.css";
 import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (
     <Container fluid>
-      <Row>
-          <Col lg={3}><Profile /></Col>
-          <Col lg={9}><CustomTabPane /></Col>
-      </Row>
+      <Homepage />
     </Container>
   );
 }

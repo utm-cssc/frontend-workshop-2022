@@ -1,3 +1,4 @@
+// Skills
 export const ProgrammingSkills = [
   {
     language: "",
@@ -36,11 +37,6 @@ export const Tools = [
   "Yarn",
   "NightWatch"
 ];
-
-// TODO: Here, define a constant as your name and export it
-// TODO: Here, define a constant as your phone number and export it
-// TODO: Here, define a constant as your email and export it
-// TODO: Here, define a constant as your address and export it
 
 //Experience
 export const ExperienceObject = [{
@@ -87,11 +83,6 @@ export const PRObject = [
 
 export const ContactLinksObj = [
   {
-    platform: "Hackerearth",
-    profileLink: "",
-    icon: "https://uploads.codesandbox.io/uploads/user/5ae29b72-3c9d-4baf-b5fb-0e0329688dc0/9CCF-HE_identity.png"
-  },
-  {
     platform: "Hackerrank",
     profileLink: "",
     icon: "https://uploads.codesandbox.io/uploads/user/5ae29b72-3c9d-4baf-b5fb-0e0329688dc0/Lvxu-DS201.png"
@@ -122,6 +113,8 @@ export const ContactLinksObj = [
     icon: "https://uploads.codesandbox.io/uploads/user/5ae29b72-3c9d-4baf-b5fb-0e0329688dc0/LuQy-GH.ico"
   }
 ];
+
+// Projects
 
 export const GithubProjects = [
   {
