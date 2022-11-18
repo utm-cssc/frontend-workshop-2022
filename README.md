@@ -27,10 +27,11 @@ git clone https://github.com/utm-cssc/frontend-workshop-2022
 
 Note that you are not required to fork this repo, but you are able to if you want!
 
-Once you clone this repo to your machine, now we want to run the code by changing directory (cd), and then run our React
+Once you clone this repo to your machine, now we want to run the code by changing directory (cd), install dependencies, and then run our React
 
 ```bash
 cd frontend-workshop-2022
+npm install
 npm start
 ```
 
