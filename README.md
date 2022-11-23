@@ -14,7 +14,7 @@ The code in this repo is a resume website template we found online and modified 
 
 For this workshop, we use React + Git as fundamental, and other packages as dependencies (you can install them once you setup the starter code). With that being said, you may want to install some software first on your machine:
 
-- Node.js (≥ 14.0.0) & Npm (≥ 5.6): Check [https://nodejs.org/en/](https://nodejs.org/en/) for download information. Npm (Node package manager) is usually installed as a bundle with Node.js (so if you installed Node.js, you should also have npm)
+- Node.js (≥ 14.0.0) & Npm (≥ 5.6): Check [nodejs.org](https://nodejs.org/en/) for download information. Npm (Node package manager) is usually installed as a bundle with Node.js (so if you installed Node.js, you should also have npm)
 - Git (latest version recommended): Check [https://git-scm.com/downloads](https://git-scm.com/downloads) for download information. You may find our Git Workshop ([https://youtu.be/K1V_xtcGCl4](https://youtu.be/K1V_xtcGCl4)) helpful in this workshop
 
 ## Clone starter code
@@ -39,13 +39,14 @@ Now you should see a website running on `https://localhost:3000`
 
 # Resources
 
-- Workshop slides: [https://docs.google.com/presentation/d/1m-nAIGf_7ZKnKxSDeV0x1kCGj7YeGSkBIG4exYKNpSQ/edit?usp=sharing](https://docs.google.com/presentation/d/1m-nAIGf_7ZKnKxSDeV0x1kCGj7YeGSkBIG4exYKNpSQ/edit?usp=sharing)
-- React official documentation: [https://reactjs.org/](https://reactjs.org/)
-- React resources by CSSC: [https://cssc.utm.utoronto.ca/resources/react](https://cssc.utm.utoronto.ca/resources/react)
-- React resources by GDSC: [utmgdsc/react-workshop (github.com)](https://github.com/utmgdsc/react-workshop)
+- [Workshop slides](https://docs.google.com/presentation/d/1m-nAIGf_7ZKnKxSDeV0x1kCGj7YeGSkBIG4exYKNpSQ/edit?usp=sharing)
+- [Workshop recording](https://www.youtube.com/watch?v=DYGzO8eYwT4)
+- React official documentation: [reactjs.org](https://reactjs.org/)
+- [React resources by CSSC](https://cssc.utm.utoronto.ca/resources/react)
+- [React resources by GDSC](https://github.com/utmgdsc/react-workshop)
 
 # Credits
 
 - Authors: [Giang Bui](https://github.com/huonggiangbui) (CSSC, GDSC) & [Brian Zhang](https://github.com/Pyosimros) (CSSC)
-- Credits to slide inspiration: [https://docs.google.com/presentation/d/1VGcq07dgQgvnXsZKTxp60jxx9n7hGU9S4ZX2wJY7HzA/edit#slide=id.g789f61aa25_0_10](https://docs.google.com/presentation/d/1VGcq07dgQgvnXsZKTxp60jxx9n7hGU9S4ZX2wJY7HzA/edit#slide=id.g789f61aa25_0_10)
-- Credits to starter code inspiration: [https://github.com/shankarshastri/responsive-resume-template/tree/master/](https://github.com/shankarshastri/responsive-resume-template/tree/master/)
+- Credits to slide inspiration: [Presentation from White Van](https://docs.google.com/presentation/d/1VGcq07dgQgvnXsZKTxp60jxx9n7hGU9S4ZX2wJY7HzA/edit#slide=id.g789f61aa25_0_10)
+- Credits to starter code inspiration: [shankarshastri responsive-resume-template](https://github.com/shankarshastri/responsive-resume-template/tree/master/)
